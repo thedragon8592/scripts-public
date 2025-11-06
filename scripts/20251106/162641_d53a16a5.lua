@@ -1,0 +1,1 @@
+{"success":false,"error":"Please check the script for syntax errors"}
